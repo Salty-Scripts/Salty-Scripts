@@ -5,7 +5,7 @@
 
 ## - Here is all of my works and ideas ! 🌠
 
-### - Always working on my stuff, trying to post to faster possible! 👻
+### - I'm always working on my stuff, and updating the most possible! 👻
 ![alt text](https://i.imgur.com/4M7IWwP.gif)
 
 ![Active](https://img.shields.io/badge/Langages-Java%20%2F%20Js%20%2F%20MySQL-ff69b4)
